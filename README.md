@@ -1,2 +1,2 @@
-# repositorio de PRACICA
+# repositorio de PRACTICA
 Este repositorio es de practica
